@@ -1,0 +1,10 @@
+nav.navbar.navbar-expand-lg.navbar-light.bg-dark a.navbar-brand ,div.collapse.navbar-collapse#navbarSupportedContent li.nav-item a.nav-link {
+	color: white;
+}
+
+div.collapse.navbar-collapse#navbarSupportedContent li.nav-item a.nav-link:hover {
+	color: green;
+}
+div.collapse.navbar-collapse#navbarSupportedContent li.nav-item a.nav-link{
+	float: left;
+}

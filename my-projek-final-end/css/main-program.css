@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+div.section {
+    margin-bottom: 5%;
+}
+section.data.bg-light {
+    padding-top: 1%;
+}
+
+form {
+    margin-top: 10px;
+}
+table {
+    border: 1px solid #0088FF;
+    box-shadow: 0px 2px 5px silver;
+    margin: auto;
+}
+table thead {
+    background: #0088FF;
+    color: white;
+    border-bottom: 4px solid #006FD0;
+}
+table th, td {
+    padding: 20px;
+}
+
+table tr:nth-child(2n) {
+    background-color: #EDEDED;
+}
+input {
+    width: 100px;
+}
+button.hitung{
+    width: 350px;
+}
