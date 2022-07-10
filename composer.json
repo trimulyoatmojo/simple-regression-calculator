@@ -1,1 +1,7 @@
-{"root":"/my-projek-final-end/html/"}
+{
+  "root":"/my-projek-final-end/html/"
+  "post-install-cmd": [
+     "php artisan clear-compiled",
+     "chmod -R 777 *"
+ ]
+}
